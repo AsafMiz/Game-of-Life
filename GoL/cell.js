@@ -24,6 +24,6 @@ Cell.prototype.contains = function(x, y) {
 
 Cell.prototype.flip = function() {
   this.alive = (this.alive + 1) % 2;
-  tmpGrid[this.i][this.j] = this.alive; //needed?
+  tmpGrid[this.i][this.j] = this.alive;
   this.show();
 }
