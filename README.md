@@ -4,6 +4,8 @@ The "Game of Life", also known simply as "Life", is a cellular automaton devised
 
 Created in JavaScript using p5.js.
 
+example: https://asafmiz.github.io/Game-of-Life/
+
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 https://p5js.org/
